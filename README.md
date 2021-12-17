@@ -1,2 +1,6 @@
-# desafio_git_github-DIO
-Projeto criado para desafio de Git e Github na DIO
+# Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para desafio de projeto.
+
+
+# Links úteis
+[Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
